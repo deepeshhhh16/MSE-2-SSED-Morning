@@ -1,0 +1,10 @@
+{
+  "student_name": "Deepesh Pravish",
+  "roll_number": "2400291520095",
+  "section": "B",
+  "github_username": "deepeshhhh16",
+  "dockerhub_username": "deepeshhhh26",
+  "frontend_image": "deepeshhhh26/frontend:latest",
+  "backend_image": "deepeshhhh26/backend:latest",
+  "branch": "main"
+}
